@@ -1,0 +1,14 @@
+Package: com.paint.icons
+Name: PaintIcons
+Version: 1.5.1
+Architecture: iphone-os-arm 
+Description: PaintIcons Theme
+Maintainer: RataGamer
+Author: RataGamer
+Section: Theme
+Depends: 
+Filename: debs/PaintIcons.deb
+Size: 419290
+MD5sum: d7f6fe31e197c3c311702fa79297b3bf
+SHA1: 3de80e277ae93cd987abc5acadbf5ae0be6f6487
+SHA256: 35c684de64572452ab6f02f609a1c3bb56b872e59f951854cc2ec2d8d2c990e4
